@@ -18,6 +18,5 @@ public class variable {
 //         int DAYS_IN_YEAR =365;
 
 
-//
     }
 }
